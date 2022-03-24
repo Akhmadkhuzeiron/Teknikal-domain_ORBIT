@@ -1,0 +1,1 @@
+print ('halo duniaku yang suram')
